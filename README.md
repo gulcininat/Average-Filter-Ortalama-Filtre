@@ -1,6 +1,6 @@
-# MeanFilter-OrtalamaFiltre
+# Average Filter - Ortalama Filtre
 
-Applying a mean filter on an image
+Applying a Average filter on an image
 
 // Bir görsel üzerinde ortalama filtre uygulaması
 
